@@ -11,8 +11,8 @@ A frontend-only Kanban board built with React and TypeScript. Cards can be reord
 ## Install and run
 
 ```bash
-git clone <repository-url>
-cd healthie-prework
+git clone git@github.com:sourjam/portal-kanban.git
+cd portal-kanban
 npm install
 npm run dev
 ```
