@@ -1,0 +1,44 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+playwright-report
+playwright/.cache
+test-results
+blob-report
+coverage
+.vite
+*.tsbuildinfo
+*.local
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Only README and CHANGELOG are repository documentation
+*.md
+!README.md
+!CHANGELOG.md
+docs/
+*.pdf
+*.docx
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
